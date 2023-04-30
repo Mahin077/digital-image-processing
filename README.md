@@ -1,7 +1,7 @@
 # digital-image-processing
 Here I am using matlab for processing images 
 
-In Matlab1 the tasks are:\
+**In Matlab1 the tasks are:**\
 a.Take the Input image.\
 b.Apply Laplacian Filter in image \
 c.Do necessary Operations to get the Laplacian Enhanced Image \
